@@ -1,3 +1,5 @@
 BareBones/*.o
 BareBones/isodir/
 BareBones/*.iso
+BareBones/*.bin
+BareBones/grub.cfg
